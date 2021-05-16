@@ -5,6 +5,8 @@ Neste curso foi ensinado como contribuir para projetos de código aberto.
 
 Link para o curso [Python Pro](https://www.python.pro.br/)
 
+[![Build Status](https://travis-ci.com/Rafael-Fonseca/libPythonPro.svg?branch=main)](https://travis-ci.com/Rafael-Fonseca/libPythonPro)
+
 Para instalar, digite no console:
 
 '''
