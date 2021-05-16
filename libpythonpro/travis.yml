@@ -1,5 +1,5 @@
 language:
-  - python 3.9
+  - python 3.6
 install:
   - pip install -q -r requirements-dev.txt
 Script:
