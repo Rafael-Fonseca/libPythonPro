@@ -1,0 +1,7 @@
+language:
+  - python 3.9
+install:
+  - pip install -q -r requirements-dev.txt
+Script:
+  - flake8
+  - pytest libpythonpro/tests/teste_exemplo.py
