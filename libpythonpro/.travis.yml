@@ -1,7 +1,10 @@
-language:
-  - python 3.9
+language: python
+python:
+  - 3.9
 install:
-  - pip install -q -r requirements-dev.txt
+  - pip install -q -r requirements-dev.txt codecov
 script:
   - flake8
   - pytest libpythonpro/tests/teste_exemplo.py --cov=libpythonpro
+after_success:
+  - codecov
