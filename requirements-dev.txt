@@ -10,7 +10,7 @@ iniconfig==1.1.1
 keyring==23.0.1
 mccabe==0.6.1
 packaging==20.9
-pkginfo==1.7.0
+pkginfo==1.7.1
 pluggy==0.13.1
 py==1.10.0
 pycodestyle==2.7.0
