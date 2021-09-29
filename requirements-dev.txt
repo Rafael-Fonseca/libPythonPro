@@ -29,5 +29,5 @@ toml==0.10.2
 tqdm==4.60.0
 twine==3.4.1
 webencodings==0.5.1
-zipp==3.4.1
+zipp==3.5.1
 -r requirements.txt
