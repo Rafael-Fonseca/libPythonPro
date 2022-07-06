@@ -3,7 +3,7 @@ attrs==21.2.0
 bleach==3.3.0
 colorama==0.4.4
 coverage==5.5
-docutils==0.17.1
+docutils==0.19
 flake8==3.9.2
 importlib-metadata==4.0.1
 iniconfig==1.1.1
