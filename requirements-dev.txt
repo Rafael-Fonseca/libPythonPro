@@ -1,4 +1,4 @@
-atomicwrites==1.4.0
+atomicwrites==1.4.1
 attrs==21.2.0
 bleach==3.3.0
 colorama==0.4.4
